@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pearlarrow:item/pearl_arrow"
+  }
+}
