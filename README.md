@@ -4,6 +4,8 @@
 
 一个 Minecraft **1.20.1 Fabric** 模组：新增一支会传送的箭。命中方块或生物时，射手会被传送到箭的落点，并伴随末影珍珠粒子与末影人传送音效。
 
+**下载**：[Modrinth](https://modrinth.com/mod/ender-arrow) · [GitHub Releases](https://github.com/lyc2013/Ender-Arrow/releases)
+
 ## 特性
 
 - 命中方块或生物后，将**射手**传送到落点
@@ -41,6 +43,10 @@
 ```
 
 产物位于 `build/libs/ender-arrow-1.0.0.jar`。
+
+## 支持作者
+
+如果这个模组对你有帮助，欢迎来 [爱发电](https://afdian.com/a/lyc2013) 赞助我 ☕
 
 ## 许可证
 

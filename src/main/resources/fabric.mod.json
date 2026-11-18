@@ -9,6 +9,11 @@
   ],
   "license": "MIT",
   "icon": "assets/pearlarrow/icon.png",
+  "contact": {
+    "homepage": "https://modrinth.com/mod/ender-arrow",
+    "sources": "https://github.com/lyc2013/Ender-Arrow",
+    "issues": "https://github.com/lyc2013/Ender-Arrow/issues"
+  },
   "environment": "*",
   "entrypoints": {
     "main": [
